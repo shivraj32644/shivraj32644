@@ -82,7 +82,7 @@ class Skills extends SoftwareDeveloper {
   
 </div>
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=shivraj32644&theme=minimal" alt="activitygraph" /> 
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=shivraj32644&theme=minimal" alt="activitygraph" />  -->
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivraj32644" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=shivraj32644" alt=""/> </p>
